@@ -1,0 +1,9 @@
+# Downloaded airway data
+Airways/
+
+# Downloaded checkpoint folders
+checkpoints_LD/
+checkpoints_policy/
+
+# Supplementary videos
+Supplementary Materials/scirobotics.adt5338_movies_s1_to_s8/
